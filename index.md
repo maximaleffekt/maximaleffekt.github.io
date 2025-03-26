@@ -4,4 +4,4 @@ Text
 
 ## Überschrift 2
 
-Lorem Ipsum Dolor Sit Amet
+Lorem [Ipsum](/blog/example.html) Dolor Sit Amet
