@@ -1,7 +1,5 @@
-# Überschrift 1
+# Illegale-Daten.de
 
-Text
+## Blog
 
-## Überschrift 2
-
-Lorem [Ipsum](/blog/example.html) Dolor Sit Amet
+[Archivieren oder Verlieren](blog/archivieren-oder-verlieren.html) (2025-05-01)
