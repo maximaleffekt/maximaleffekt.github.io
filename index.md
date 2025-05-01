@@ -1,5 +1,5 @@
-# Illegale-Daten.de
+# illegale-daten.de
 
-## Blog
+## index
 
-[Archivieren oder Verlieren](blog/archivieren-oder-verlieren.html) (2025-05-01)
+[Archivieren oder Verlieren](blog/archivieren-oder-verlieren.html) (2025-03-26)

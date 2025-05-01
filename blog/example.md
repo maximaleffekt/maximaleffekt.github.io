@@ -1,3 +1,0 @@
-# Headline 
-
-and some text
